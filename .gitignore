@@ -1,0 +1,5 @@
+# Ignore all out files for c and c++ programs
+*.out
+
+# ignore VS Code DS_Store config
+.DS_Store
